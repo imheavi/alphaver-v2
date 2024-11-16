@@ -149,19 +149,23 @@ As always, a **VPN** is recommended when joining these Minecraft servers.
 
 ## To-do List
 Want to contribute? Feel free to pick a task from the list below, and contribute to the project! *(make sure to mark the task you're working on with a "\*")*
-- [X] ~~Video Analyzation~~
-- [X] ~~Sighting/Incident Reports~~
-- [X] ~~File, audio and image analyzations~~
-- [X] ~~Write down every chat message that happened in videos~~
-- [X] ~~Images & Pictures, Videos~~
+- [ ] ~~Video Analyzation~~ needs newest videos analyzed
+- [ ] ~~Sighting/Incident Reports~~ needs Dev Raid report, as well as any new sightings that may have happened
+- [ ] ~~File, audio and image analyzations~~ needs R4 and R4 prototype files
+- [ ] ~~Write down every chat message that happened in videos~~ needs messages from new videos
+- [ ] ~~Images & Pictures, Videos~~ needs new videos + screenshots for some
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
-- [X] ~~Item documentation~~
+- [ ] ~~Item documentation~~ needs R4/R4 prototype items
 - [ ] Download & add more images
 - [ ] Timelines *(version timelines, videos, events, sightings)*
 - [ ] Add an in-depth guide of installing clients/servers
 - [ ] Seperate Preview and Lilypad item & block IDs
 - [ ] Reanalyze videos
+- [ ] Add guide to decomp/deobfuscate R4 jar
+- [ ] Add info about/from new versions, R4 is highest priority as it is the only easily playable version
+- [ ] Add info about the Dev Raid Incident
+- [ ] Add new music
 
 [^importance-index]: 
     ## Importance Index
