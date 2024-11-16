@@ -5,6 +5,8 @@
 # Hello there! 👋  
 **AlphaVer** or **Minecraft Alpha 1.0.16 Versions** *(we call it AlphaVer)*, is a fictional web series/[ARG](https://en.wikipedia.org/wiki/Alternate_reality_game) that revolves around a closed-off branch of the actual Alpha 1.0.16 version of Minecraft. Nextre-dev, the owner of the original repo, is no longer active on Github, so I thought I would do my best to update the repository to include all the new infomation I could find. Please feel free to open an issue if I've missed something!
 
+**Please keep in mind this is WIP, so most things probably aren't here right now.**
+
 ## Great, so where do I start?
 I recommend you start by checking out RetroGamingNow's two videos, as they explain most of the vital parts entertainingly. If you came from here though, go ahead and read through the repo, it contains a lot of information. [Part One](https://youtu.be/_d5hEiYIKKU?si=R_qnWPrtb-ERavsC)  [Part Two](https://youtu.be/HYPf4ukXYlw?si=5a5c4ZdxofUX-q5N)
 
