@@ -121,7 +121,7 @@ They then save the file, and open the launcher again.
 
 There is a text box in the bottom right corner of the launcher that says "logged in as dev2". This appears to be how dev2 was impersonated, as mentioned in the description of [Sunrise](/videos/sunrise.md).
 
-_The changelog mentions that the team wanted the game to rely heavily on online play, but the original Minecraft team didn't, so it appears that is why they forked the development._
+_Among other things, the changelog mentions that the team wanted the game to rely heavily on online play, but the original Minecraft team didn't, so it appears that is why they forked the development._
 
 The player launches the game, and walks around some.
 
