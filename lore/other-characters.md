@@ -38,7 +38,7 @@ They were *probably* recording [Version 13](../videos/version-13.md) and [Sunris
 ### orble
 orble was seen in [Attempt to run today](../videos/attempt-to-run-today.md) and [Presentation](../videos/presentation.md).
 
-They recorded videos [Version 07](../videos/version-07.md) and [Home](videos/home.md).
+They recorded videos [Version 07](../videos/version-07.md) and [Home](/videos/home.md).
 
 Their operating system is `Windows 7`.
 
