@@ -3,7 +3,7 @@
 # Video #24: Reinsertion point
 | Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
 | ---------  | ------------------------------------- | -------- | ------- | ---------  | ----------------- |
-| 2022-08-01 | Minecraft Alpha 1.0.16.05_10RC1 | 1:52  | ?   | ?   | [Watch it here](https://youtube.com/watch?v=PqNN7axwYs0) |
+| 2022-08-01 | Minecraft Alpha 1.0.16.05_10RC1 | 1:52  | 60   | ?   | [Watch it here](https://youtube.com/watch?v=PqNN7axwYs0) |
 
 ## Description
 Date and time unknown, however the year is definitely 2010. Source of the video may be [xorcist6898] or an affilated player. Now that some of them are with us, we have uncovered much more than we could have done initially.
@@ -29,3 +29,5 @@ Date and time unknown, however the year is definitely 2010. Source of the video 
 * _1:05_: dev0 passes by.
 * _1:22_: Player enters an Iron Door and loads into a world with unusual trees.
 * _1:52_: View distance gets reduced without the chunks getting reloaded.
+
+## Notes It's

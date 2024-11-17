@@ -1,6 +1,6 @@
 [← Home Page](../README.md#2-videos)
 
-# Video #12: Musical Showcase
+# Video #28: Musical Showcase
 | Post Date  | Minecraft Version                    | Length   | FPS    | Resolution | Youtube Link      |
 | ---------  | ------------------------------------ | -------- | -----  | ---------- | ----------------- |
 | 2023-3-2 | Minecraft Alpha v1.0.16.05_19 R3 | 4:27 | 24  | 1280x720  | [Watch it here](https://www.youtube.com/watch?v=5rpmB67GY0Q) |

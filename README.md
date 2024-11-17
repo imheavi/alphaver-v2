@@ -57,6 +57,7 @@ Currently, the latest video is [Home](videos/home.md).
 | [Home]                 | 2022-11-17      | ????                | **?**                     |
 | [Video Collection](/videos/video-collection.md) |2023-1-31 |????(several videos) |**1.5** 🟢 |
 | [Musical Showcase](/videos/musical-showcase.md) |2023-3-2 | ???? |**0.5**🟢|
+| [Misc. footage: '服务器世界备份_1.flv'](/videos/misc-footage.md) |2023-6-10|????| **1**🟢|
 
 ### 3. Sightings 👀
 | **Index**      | **Date**   | **Verified?** |
@@ -150,11 +151,11 @@ As always, a **VPN** is recommended when joining these Minecraft servers.
 
 ## To-do List
 Want to contribute? Feel free to pick a task from the list below, and contribute to the project! *(make sure to mark the task you're working on with a "\*")*
-- [ ] Video Analyzation - needs newest videos analyzed
+- [ ] Video Analyzation - needs newest videos analyzed - 3/5
 - [ ] Sighting/Incident Reports - needs Dev Raid report, as well as any new sightings that may have happened
-- [ ] File, audio and image analyzations - needs R4 and R4 prototype files
-- [ ] Write down every chat message that happened in videos - needs messages from new videos
-- [ ] Images & Pictures, Videos - needs new videos + screenshots for some possibly
+- [ ] File, audio and image analyzations - needs R4 and R4 prototype .jars
+- [ ] Write down every chat message that happened in videos - needs messages from new videos 0/5
+- [ ] Images & Pictures, Videos - needs new videos + screenshots for some possibly 
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
 - [ ] Item documentation - needs R4/R4 prototype items

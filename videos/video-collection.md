@@ -131,3 +131,17 @@ The player shows us his cool Minecraft house, and how to build one ourselves.
 The player then trolls us. _:)_
 
 The video then cuts to a phone _(?)_ camera, looking at a computer screen, which shows the perspective of a recruitment _(?)_ player, which has been watching the two players.
+
+## Notes
+It's worthy of mentioning that in Video 6, the person recording has several lost media items, the ones I could idenify are:
+
+**
+JoJo's Bizzare Adventure: Phantom Blood, a movie that only showed once in Japan
+
+Copeland's now-found Herobrine Minecraft stream
+
+Mario 128, a dropped sequel to Mario 64
+
+Sonic X-Treme, an unreleased Sega game
+
+Some sort of N64 Disc Drive(?) game
