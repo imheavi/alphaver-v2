@@ -17,7 +17,7 @@
 
 ## Characters
 * `PISSMAN-PC` is recording. (Based on the hamachi nickname)
-* `xorcist6898`'s account is been used.
+* `xorcist6898`'s account is being used.
 * `vivivern`: person to which PISSMAN-PC is talking through hamachi
 * `slayer00`: showed on the hamachi group
 
