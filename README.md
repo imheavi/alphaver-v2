@@ -56,6 +56,7 @@ Currently, the latest video is [Home](videos/home.md).
 | [attachment_b849.avi]  | 2022-09-11      | ????                | **?**                     |
 | [Home]                 | 2022-11-17      | ????                | **?**                     |
 | [Video Collection](/videos/video-collection.md) |2023-1-31 |????(several videos) |**1.5** 🟢 |
+| [Musical Showcase](/videos/musical-showcase.md) |2023-3-2 | ???? |**0.5**🟢|
 
 ### 3. Sightings 👀
 | **Index**      | **Date**   | **Verified?** |
