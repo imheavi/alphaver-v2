@@ -25,7 +25,7 @@ Video name: 服务器世界备份_1.flv
 
 *translation:* another comes another
 
-(0:06) A world from Branchbots streams is seen.
+(0:06) A world from Branchbots streams is seen. (needs to be properly verified)
 
 (0:22) Blackout.
 
@@ -129,4 +129,4 @@ Video name: 服务器世界备份_1.flv
 
 ## Notes
 
-The Miraheze wiki says that Branchbot created the video, and that the video takes place on one of their worlds in the Trivia section, but I'm personally don't belive this is true.
+The Miraheze wiki says that Branchbot created the video, and that the video takes place on one of their worlds in the Trivia section, but this needs to be verifed somehow.
