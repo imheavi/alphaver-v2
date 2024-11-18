@@ -38,7 +38,7 @@ They were *probably* recording [Version 13](../videos/version-13.md) and [Sunris
 ### orble
 orble was seen in [Attempt to run today](../videos/attempt-to-run-today.md) and [Presentation](../videos/presentation.md).
 
-They recorded the video [Version 07](../videos/version-07.md).
+They recorded videos [Version 07](../videos/version-07.md) and [Home](/videos/home.md).
 
 Their operating system is `Windows 7`.
 
@@ -59,7 +59,7 @@ MachineRage was seen in [Attempt to run today](../videos/attempt-to-run-today.md
 bug_nation was seen in [Version 10](../videos/version-10.md).
 
 ### Vivern
-They were seen in [Consequences](../videos/consequences.md) and [Discovered](../videos/discovered.md).
+They were seen in [Consequences](../videos/consequences.md) and [Discovered](../videos/discovered.md), and recorded [Musical Showcase](/videos/musical-showcase.md)
 
 ### Red Shirt Player
 Their origin is unknown.
