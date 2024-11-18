@@ -153,10 +153,10 @@ As always, a **VPN** is recommended when joining these Minecraft servers.
 
 ## To-do List
 Want to contribute? Feel free to pick a task from the list below, and contribute to the project! *(make sure to mark the task you're working on with a "\*")*
-- [ ] Video Analyzation - needs newest videos analyzed - 3/5
+- [ ] Video Analyzation - needs newest videos analyzed - 4/5
 - [ ] Sighting/Incident Reports - needs Dev Raid report, as well as any new sightings that may have happened
 - [ ] File, audio and image analyzations - needs R4 and R4 prototype .jars
-- [ ] Write down every chat message that happened in videos - needs messages from new videos 0/5
+- [ ] Write down every chat message that happened in videos - needs messages from new videos 4/5
 - [ ] Images & Pictures, Videos - needs new videos + screenshots for some possibly 
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
