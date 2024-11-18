@@ -3,7 +3,7 @@
 # Video #29: Misc. footage: '服务器世界备份_1.flv'
 | Post Date  | Minecraft Version             | Length  | FPS | Resolution | Youtube Link      | 
 | ---------  | ----------------------------- | ------- | --- | ---------- | ----------------- | 
-| 2023-6-10 | Minecraft Alpha v1.0.16.05 R4 | 5:54 | 48  | 1280x720  | [Watch it here](https://www.youtube.com/watch?v=cpo_SlmbIuY&t=247s) | 
+| 2023-6-10 | Minecraft Alpha v1.0.16.05 R4 | 5:54 | 48  | 1280x720  | [Watch it here](https://www.youtube.com/watch?v=cpo_SlmbIuY) | 
 
 *The video title translates to "Misc. footage: 'Server World Backup_1.flv'*
 

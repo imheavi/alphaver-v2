@@ -59,7 +59,16 @@ MachineRage was seen in [Attempt to run today](../videos/attempt-to-run-today.md
 bug_nation was seen in [Version 10](../videos/version-10.md).
 
 ### Vivern
-They were seen in [Consequences](../videos/consequences.md) and [Discovered](../videos/discovered.md), and recorded [Musical Showcase](/videos/musical-showcase.md)
+They were seen in [Consequences](../videos/consequences.md) and [Discovered](../videos/discovered.md), and recorded [Musical Showcase](/videos/musical-showcase.md).
+
+### xxnullcod4
+They recorded [Security Flaw](/videos/security-flaw.md).
+
+### x_one1_x
+They were seen in [Security Flaw](/videos/security-flaw.md).
+
+### Chives@Lover and Trintalogy
+They were seen in [Security Flaw](/videos/security-flaw.md).
 
 ### Red Shirt Player
 Their origin is unknown.
@@ -70,3 +79,5 @@ They recorded [Closed Preview](../videos/closed-preview.md).
 Their origin is unknown.
 
 They were seen in [Closed Preview](../videos/closed-preview.md).
+
+

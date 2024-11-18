@@ -58,6 +58,7 @@ Currently, the latest video is [Home](videos/home.md).
 | [Video Collection](/videos/video-collection.md) |2023-1-31 |????(several videos) |**1.5** 🟢 |
 | [Musical Showcase](/videos/musical-showcase.md) |2023-3-2 | ???? |**0.5**🟢|
 | [Misc. footage: '服务器世界备份_1.flv'](/videos/misc-footage.md) |2023-6-10|????| **1**🟢|
+|[Security Flaw](/videos/security-flaw.md)|2023-8-14|????|**2**🟡|
 
 ### 3. Sightings 👀
 | **Index**      | **Date**   | **Verified?** |
@@ -94,6 +95,7 @@ Currently, the latest video is [Home](videos/home.md).
 | [Consequences](chat_messages/consequences.md)          | **3** 🟡                 |
 | [Reinsertion point](chat_messages/reinsertion-point.md)|**1** 🟢|
 | [Home](chat_messages/home.md)|**?** 🟢|
+|[Security Flaw](/chat_messages/security-flaw.md)|**2**🟢|
 
 ### 5. Analyzation 🔎
 * [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)
