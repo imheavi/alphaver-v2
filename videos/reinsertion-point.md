@@ -29,5 +29,3 @@ Date and time unknown, however the year is definitely 2010. Source of the video 
 * _1:05_: dev0 passes by.
 * _1:22_: Player enters an Iron Door and loads into a world with unusual trees.
 * _1:52_: View distance gets reduced without the chunks getting reloaded.
-
-## Notes It's
