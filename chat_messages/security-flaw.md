@@ -2,12 +2,14 @@
 
 # Video #30: Security Flaw
 
+x_one1_x is marked as (?), because we do not know their Hamachi username.
+
 ## Call of Duty Chat
 >xX-NULL-COD4HDX: wanna get on xbox later?
 
 >Xx-oNE1-COD4HDx: _[completely blurred]_
 
->xX-NULL-COD4HDX: oh s**t yeah lamo
+>xX-NULL-COD4HDX: oh shit yeah lamo
 
 >xX-NULL-COD4HDX: so get on block game maybe?
 
@@ -84,7 +86,7 @@
 
 >?: this isnt even the craziest stuf
 
->ONECOD4: WHAT THE F**KKK
+>ONECOD4: WHAT THE FUCKKK
 
 >?: open a world and open the cheat console ok
 
@@ -126,7 +128,7 @@
 
 >?: 2 _?_ 8 73 13
 
->?: can't see s**t
+>?: can't see shit
 
 >?: _???_
 
@@ -138,9 +140,9 @@
 
 >?:  wwww
 
->?: lets build some s**t
+>?: lets build some shit
 
->?: and let them s**t over that
+>?: and let them shit over that
 
 >?: how bout that
 
@@ -158,13 +160,13 @@
 
 >ONECOD4: and when they come back
 
->ONECOD4: they gonn s**t themself
+>ONECOD4: they gonn shit themself
 
 >?: YEEEEAH
 
 >?: just as i said www
 
->ONECOD4: okay let's f**kin do this here
+>ONECOD4: okay let's fuckin do this here
 
 >?: yeah sure
 
@@ -182,7 +184,7 @@
 
 >ONECOD4: they might be coming go with me
 
->?: this'll be so f**king _???_
+>?: this'll be so fucking _???_
 
 >ONECOD4: we gonn watch their reaction
 
