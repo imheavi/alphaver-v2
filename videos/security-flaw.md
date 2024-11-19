@@ -15,7 +15,7 @@
 
 ``x_one1_x`` is playing with 
 
-``Chives@Lover`` and ``Trintalogy`` are the people in the world null connects to.
+``Chives@Lover`` and ``Trintalogy`` are the players in the world ``xnull0cod4`` connects to.
 
 ## Anomalies
 
