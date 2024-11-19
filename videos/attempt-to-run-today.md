@@ -19,7 +19,7 @@ One of us found a .jar file of the old version
 * MachineRage
   * MachineRage responds right after [the game crashes](#crash)
   * It is implied that he is a developer of these versions:
-    > **MachineRage:** yeah, there were these things that happened when the PC was connected to **our** servers, they shouldn't ahveh appened now
+    > **MachineRage:** yeah, there were these things that happened when the PC was connected to **our** servers, they shouldn't have appened now
 
 ## Anomalies
 * 01:27:37: An iron door in distance causes a lag spike
