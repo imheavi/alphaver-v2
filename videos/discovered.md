@@ -29,4 +29,4 @@ https://www.mediafire.com/file/uo2zqueiw2e872y/lilypad_qa.jar/file
 * The background sound is a song which doesn't appear to be in the OST.
 
 ## Notes
-* As we know two 1.0.16.05 builds have been made, is unknown if is the actual 16.05 build or the 16.05 we saw on [Unknown version](/videos/unknown-version.md)
+* As we know two 1.0.16.05 builds have been made, is unknown if this is the actual 16.05 build or the 16.05 we saw on [Unknown version](/videos/unknown-version.md)
