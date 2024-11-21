@@ -55,10 +55,11 @@ Currently, the latest video is [Home](videos/home.md).
 | [Reinsertion point]    | 2022-08-01      | 2010-??-??          | **5** 🔴                 |
 | [attachment_b849.avi]  | 2022-09-11      | ????                | **?**                     |
 | [Home]                 | 2022-11-17      | ????                | **?**                     |
-| [Video Collection](/videos/video-collection.md) |2023-1-31 |????(several videos) |**1.5** 🟢 |
-| [Musical Showcase](/videos/musical-showcase.md) |2023-3-2 | ???? |**0.5**🟢|
+| [Video Collection](/videos/video-collection.md) |2023-1-31 |????-??-??(several videos) |**1.5** 🟢 |
+| [Musical Showcase](/videos/musical-showcase.md) |2023-3-2 | ????-??-?? |**0.5**🟢|
 | [Misc. footage: '服务器世界备份_1.flv'](/videos/misc-footage.md) |2023-6-10|????| **1**🟢|
-|[Security Flaw](/videos/security-flaw.md)|2023-8-14|????|**2**🟡|
+|[Security Flaw](/videos/security-flaw.md)|2023-8-14|????-??-??|**2**🟡|
+|[Relief](/videos/relief.md)|2023-11-11|????-??-??/upload|**4**🔴|
 
 ### 3. Sightings 👀
 | **Index**      | **Date**   | **Verified?** |
@@ -153,10 +154,10 @@ As always, a **VPN** is recommended when joining these Minecraft servers.
 
 ## To-do List
 Want to contribute? Feel free to pick a task from the list below, and contribute to the project! *(make sure to mark the task you're working on with a "\*")*
-- [ ] Video Analyzation - needs newest videos analyzed - 4/5
+- [X] ~~Video Analyzation~~
 - [ ] Sighting/Incident Reports - needs Dev Raid report, as well as any new sightings that may have happened
 - [ ] File, audio and image analyzations - needs R4 and R4 prototype .jars
-- [ ] Write down every chat message that happened in videos - needs messages from new videos 4/5
+- [X] ~~Write down every chat message that happened in videos~~
 - [ ] Images & Pictures, Videos - needs new videos + screenshots for some possibly 
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
@@ -167,7 +168,7 @@ Want to contribute? Feel free to pick a task from the list below, and contribute
 - [ ] Seperate Preview and Lilypad item & block IDs
 - [ ] Reanalyze videos
 - [ ] Add guide to decomp/deobfuscate R4 jar
-- [ ] Add info about/from new versions, R4 is highest priority as it is the only easily playable version
+- [ ] Add info about/from new versions
 - [ ] Add info about the Dev Raid Incident
 - [ ] Add new music
 

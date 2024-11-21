@@ -48,12 +48,8 @@ Their Discord username is `ORBL`.
 
 ### MachineRage
 MachineRage was seen in [Attempt to run today](../videos/attempt-to-run-today.md), **they talk as if they were a developer**.
-
-<details>
-    <summary>Untrusted Information</summary>
-    Some people say that MachineRage is a developer.
-    This is currently unknown and should be disregarded.
-</details>
+They are confirmed in [Relief](/videos/relief.md) to be [dev6](/lore/developers.md).
+They also recorded [Relief](/videos/relief.md).
 
 ### bug_nation
 bug_nation was seen in [Version 10](../videos/version-10.md).

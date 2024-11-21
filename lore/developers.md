@@ -49,6 +49,9 @@ They are referred to as dev# or just simply #.
 - Recorded and wrote the description for [Internal footage 1](../videos/internal-footage-1.md)
 - Recorded [Internal footage 2](../videos/internal-footage-2.md)
 - Recorded and wrote the description for [Internal footage 3](../videos/internal-footage-3.md)
+- Recorded [Relief](/videos/relief.md)
 - Considered devs 4 and 3 to be his friends (internal footage 3, Presentation)
 - *Did not want dev0 to know of his whereabouts* (Presentation)
 - *Knowingly broke/bent the explicit rules of the Mojang offshoot at least three times* ([Internal footage 1](../videos/internal-footage-1.md), [Internal footage 2](../videos/internal-footage-2.md), [Internal footage 3](../videos/internal-footage-3.md))
+- Is [MachineRage](/lore/other-characters.md), as confirmed by [Relief](/videos/relief.md).
+
