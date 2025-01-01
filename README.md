@@ -2,6 +2,8 @@
     <img src="./assets/readme.banner.png" width="800" />
 </div>
 
+**I'm not dead, I promise, things have been a little busy for me, hopefully I can get around to working on this very soon!**
+
 # Hello there! 👋  
 **AlphaVer** or **Minecraft Alpha 1.0.16 Versions** *(we call it AlphaVer)*, is a fictional web series/[ARG](https://en.wikipedia.org/wiki/Alternate_reality_game) that revolves around a closed-off branch of the actual Alpha 1.0.16 version of Minecraft. Nextre-dev, the owner of the original repo, is no longer active on Github, so I thought I would do my best to update the repository to include all the new infomation I could find. Please feel free to open an issue if I've missed something!
 
