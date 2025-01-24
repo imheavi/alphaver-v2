@@ -102,10 +102,10 @@ Currently, the latest video is [Home](videos/home.md).
 | [Home](chat_messages/home.md)|**?** 🟢|
 |[Security Flaw](/chat_messages/security-flaw.md)|**2**🟢|
 
-### 5. Analyzation 🔎
-* [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)
-* [Analyzation of the Preview .jar](/resources/preview-analyzation.md)
-* [Analyzation of the Preview 2 .jar](/resources/preview-2-analyzation.md)
+### 5. Analysis 🔎
+* [Analysis of the Lilypad .jar](/resources/lilypad-analyzation.md)
+* [Analysis of the Preview .jar](/resources/preview-analyzation.md)
+* [Analysis of the Preview 2 .jar](/resources/preview-2-analyzation.md)
 * [OST.rar](/resources/ost-rar.md)
 * [OST_2.7z](/resources/ost_2-7z.md)
 
