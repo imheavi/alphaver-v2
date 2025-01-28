@@ -2,7 +2,7 @@
     <img src="./assets/readme.banner.png" width="800" />
 </div>
 
-**New video has been released! I am busy today, however analysis should be done by Sunday at the latest!**
+**Final Hours Analyzed!**
 
 You can watch it here https://youtu.be/mcA3Dufgh_k?si=k8cX6d843CpVD_eB
 
