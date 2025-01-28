@@ -147,10 +147,7 @@ As always, a **VPN** is recommended when joining these Minecraft servers.
 * ErdBeer's Server: `erdbeerbaerlp.de:24259`
 * BlackOut's Server: `lilypad.alphaver.xyz`
 
-### 📚 Wikis
-*  [Minecraft Alphaver Wiki (FANDOM)](https://minecraftalpha1016versions.fandom.com/) 
-*  [AlphaVer Wiki (FANDOM)](https://alphaver.fandom.com)
-*  [Minecraft Lilypad Wiki (FANDOM)](https://mc-lilypad.fandom.com)
+### 📚 Wiki
 *  [AlphaVer Wiki (Miraheze)](https://alphaver.miraheze.org/)
 
 ### 📄 Subreddits
