@@ -8,9 +8,9 @@
 ## Description
 Date and time unknown, however the year is certainly 2010.
 Source of the video is a normal player.
-Not much more background info had not been known up to this point, but now, they're with us.
+Not much more background info had been known up to this point, but now, they're with us.
 
-I remember this world. It was started in singleplayer, however we used to run it on a server, until [he] unknowingly got accepted into this into the tests. [He] didn't know what was going on at first, we couldn't even play multiplayer, since version 16.05 didn't have it until its sixth release. And when that finally came, [he] got banned for distributing the jar to someone from outside of the tests, that being me. Luckily, like [6] said, [he] got unbanned a few days later, but the damage has already been done. We didn't have much in common, or anything at that. At that point in life, we'd already split our paths in real life and back then, Minecraft was the only thing keeping us together. These few days when it was taken away from us, were enough to split us apart. It's nothing personal, [6], after all, [he]'s back with us now.
+I remember this world. It was started in singleplayer, however we used to run it on a server, until [he] unknowingly got accepted into the tests. [He] didn't know what was going on at first, we couldn't even play multiplayer, since version 16.05 didn't have it until its sixth release. And when that finally came, [he] got banned for distributing the jar to someone from outside of the tests, that being me. Luckily, like [6] said, [he] got unbanned a few days later, but the damage had already been done. We didn't have much in common, or anything at that. At that point in life, we'd already split our paths in real life and back then, Minecraft was the only thing keeping us together. These few days when it was taken away from us, were enough to split us apart. It's nothing personal, [6], after all, [he]'s back with us now.
 
 ## Original Video
 This video apparently once had a different title and description.
