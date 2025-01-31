@@ -143,9 +143,10 @@ As always, a **VPN** is recommended when joining these Minecraft servers.
 #### Lilypad
 > **Important Note:** Lilypad servers are **not** official server jars.
 > If a server is claiming anything about sightings, it is most likely **false information**.
-* Devad's Server: `Lilypad.mc-join.org`
 * ErdBeer's Server: `erdbeerbaerlp.de:24259`
-* BlackOut's Server: `lilypad.alphaver.xyz`
+
+#### R4/Cypress
+* ErdBeer's server: `erdbeerbaerlp.de:25580`
 
 ### 📚 Wiki
 *  [AlphaVer Wiki (Miraheze)](https://alphaver.miraheze.org/)
