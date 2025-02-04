@@ -30,7 +30,7 @@ If you feel like picking up the playable versions, but don't know how to, you ca
 * [Recruitment program](/lore/recruitment.md)
 
 ### 2. Videos 📺
-Currently, the latest video is [Home](videos/home.md).
+Currently, the latest video is [Final Hours](videos/final-hours.md).
 | **Title**              | **Upload Date** | **Canonical Date**  | **Importance Index**[^importance-index] |
 | ---------------------- | --------------- | ------------------- | ------------------------ |
 | [Entry Point]          | 2021-08-01      | 2010-??-??          | **5** 🔴                 |
@@ -143,14 +143,12 @@ As always, a **VPN** is recommended when joining these Minecraft servers.
 #### Lilypad
 > **Important Note:** Lilypad servers are **not** official server jars.
 > If a server is claiming anything about sightings, it is most likely **false information**.
-* Devad's Server: `Lilypad.mc-join.org`
 * ErdBeer's Server: `erdbeerbaerlp.de:24259`
-* BlackOut's Server: `lilypad.alphaver.xyz`
 
-### 📚 Wikis
-*  [Minecraft Alphaver Wiki (FANDOM)](https://minecraftalpha1016versions.fandom.com/) 
-*  [AlphaVer Wiki (FANDOM)](https://alphaver.fandom.com)
-*  [Minecraft Lilypad Wiki (FANDOM)](https://mc-lilypad.fandom.com)
+#### R4/Cypress
+* ErdBeer's server: `erdbeerbaerlp.de:25580`
+
+### 📚 Wiki
 *  [AlphaVer Wiki (Miraheze)](https://alphaver.miraheze.org/)
 
 ### 📄 Subreddits

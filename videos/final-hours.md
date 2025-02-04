@@ -1,6 +1,6 @@
 [← Home Page](../README.md#2-videos)
 
-# Video #30: Security Flaw
+# Video #31: Final Hours
 | Post Date  | Minecraft Version             | Length  | FPS | Resolution | Youtube Link      | 
 | ---------  | ----------------------------- | ------- | --- | ---------- | ----------------- | 
 | 2025-1-24 | Minecraft Alpha v1.0.16..05_20 | 23:44 | 60  | 1920x1080  | [Watch it here](https://youtu.be/mcA3Dufgh_k) | 
@@ -13,7 +13,11 @@ If it wasn't for us, this project would probably never go "public" at all, even 
 Even if the rest of the team wasn't on the best terms with him, we still wanted this project to go somewhere, and so did the community.
 
 ## Characters
-[xorcist6898](../lore/other-characters.md) is recording the first clip.
+[xorcist6898](../lore/other-characters.md) is recording Video 1
+
+BillyTheTrickshotter is the person streaming in Video 2
+
+We don't know who records the rest of the videos.
 
 ## Anomalies and Events
 
@@ -48,7 +52,7 @@ There is no audio in this video.
 
 (2:13) The Minecraft instance closes.
 
-(2:18) The person recording opens the launcher, only to be met with a error message of sorts: ``service discontinued``
+(2:18) Billy opens the launcher, only to be met with a error message of sorts: ``service discontinued``
 
 (2:42) Video ends.
 
