@@ -1,0 +1,26 @@
+EXT16.05: NIGHTBREAK Hack client console commands
+
+
+bind <key_number> <command>: binds a key ID to a command
+
+unbind <key_number>: unbinds a key ID from all commands
+
+connect <ip>: they actually forgot to implement this command lmaoooooooooooo
+
+disconnect: at least this one works
+
+map <name>: loads a world from the saves/<name> folder. works with subdirectories too
+
+mc_viewbarrier <0/1>: lets you view invisible walls on zombies
+
+mc_creat <0/1>: enables some mode that i guess is for map builders, you get no damage
+
+mc_snowlevel <0/1>: if ya don't like your world being covered in snow, y'can disable it
+
+mc_renderdistance <0 to 5>: changes the render distance. you can just do this from the settings i don't get it
+
+cg_fovmod <value>: lets you change your fov beyond what the settings let you, like you can feel like a bo1 hack client (also available on my site) player lmao
+
+sv_leveltime <value>: changes the world time. in multiplayer will only work in the paid version of my hackclient
+
+impulse 300: no idea what th­±‚zØ‡·Ç×‚ƒ|}€"

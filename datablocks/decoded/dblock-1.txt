@@ -1,0 +1,13 @@
+';‰x7zß«ŠŒÚØÃÈ² ˜okay now the commands that are unique to my hack:
+
+fly: no shit it lets you fly
+
+noclip: lets you fly through walls
+
+placeonme: places a block at your current location. useful if you're building something while flying ig
+
+invclear: lets you clear your whole inventory. in the paid version you can also input a player name to clear their inv in multiplayer
+
+gui_versionstring <name>: lets you change the name of the version that shows up in the top left corner. by default this is set to "NIGHTBREAK 16.05". yall will prolly advertise your servers with this or something idc
+
+DOWNLOAD FREE VERSION HERE: htt#xlH·&Ä›œ¹­yÇØœúw¦ØyjÉÆ–­¥ö—MYoÉmö‡X÷dß_Æ‰§˜
