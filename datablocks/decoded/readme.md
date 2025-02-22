@@ -117,6 +117,3 @@ Yay:)
 5 is a .png file:
 
 ![The .png in 5:](/datablocks/decoded/dblock-5.png)
-
-### 7
-7 is a .rar archive. It should be noted that content in this archive is **not canon**.
